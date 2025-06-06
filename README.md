@@ -2,7 +2,6 @@
 
 Welcome to the **Weather App** — a sleek, modern, and responsive web application that fetches real-time weather data for any city worldwide! Built with **HTML**, **CSS** (glassmorphism style ✨), and **JavaScript** using the reliable OpenWeatherMap API.
 
-
 [Live Demo]: (https://asrakumari.github.io/weather-app/)
 ---
 
